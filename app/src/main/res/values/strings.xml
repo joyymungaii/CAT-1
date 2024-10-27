@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CAT 1</string>
+    <string name="title">WORK STUFF</string>
+    <string name="hours">HOURS</string>
+    <string name="rate">RATE</string>
+    <string name="compute">COMPUTE</string>
+    <string name="total">TOTAL</string>
+    <string name="ed_hours">Hours</string>
+    <string name="ed_rate">Rate</string>
+</resources>
